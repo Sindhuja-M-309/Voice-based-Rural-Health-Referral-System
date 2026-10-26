@@ -1,0 +1,23 @@
+{
+  "name": "asha-voice-referral",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "groq-sdk": "^1.4.0",
+    "lucide-react": "^1.27.0",
+    "next": "latest",
+    "qrcode": "^1.5.4",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.0",
+    "tailwindcss": "^4.0.0"
+  }
+}
